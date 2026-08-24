@@ -1,12 +1,15 @@
-Hello there, I'm a senior software engineer at [@ZAMP](https://zamp.com.br/), currently working with .NET Core and Azure. Besides that, follow all technologies I know:
-- *Programming Languages*: C#, TypeScript, GO;
-- *Frameworks/Runtimes/Libraries*: .NET Core, Node.JS, NestJS, Angular, ReactJS;
-- *HTTP Web Frameworks*: Express.js, Gin, Echo;
-- *ORMs*: Entity Framework Core, GORM, Prisma, Mongoose;
-- *Databases*: SQL Server, PostgreSQL, MySQL, MongoDB;
-- *Cloud Plataforms*: Azure, AWS;
-- *Containers Management/Orchestration*: Docker, Docker-Compose, Kubernetes;
-- *Message Queue Services*: RabbitMQ, Apache Kafka, Azure Service Bus.
+Hello there, I'm a software architect at [@Engesoftware](https://www.engesoftware.com/), currently working with Java Spring Boot, Salesforce and Azure. Besides that, follow all technologies I know:
+- *Programming languages*: C#, Java, Go, Apex, JavaScript, TypeScript.
+- *CRMs*: Salesforce.
+- *Frameworks*: .NET Core, .NET Framework, Spring Boot, NestJS.
+- *ORMs*: Entity Framework, Hibernate, Gorm, Prisma, Mongoose, TypeORM.
+- *Databases*: SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Azure Cache, Azure Cosmos DB, DynamoDB, AWS ElastiCache.
+- *SQL languages*: T-SQL, SOQL, SOSL.
+- *Message queue services*: RabbitMQ, Apache Kafka, Salesforce Event Bus, Azure Service Bus, Azure Queue Storage, AWS SQS, AWS SNS, AWS Event Bridge.
+- *Container management/orchestration*: Docker, Docker-compose, Kubernetes, AKS (Azure Kubernetes Service), ACI (Azure Container Instance), ACR (Azure Container Registry), ECS (Elastic Container Service), EKS (Elastic Kubernetes Service).
+- *Cloud providers*: Azure, AWS.
+- *Frontend*: ReactJS, LWC, Angular 2+, AngularJS, JQuery.
+- *Project management tools*: Azure DevOps, ClickUp, Jira.
 
 Where you can find me:
 
