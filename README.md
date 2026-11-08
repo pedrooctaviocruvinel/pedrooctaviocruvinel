@@ -15,6 +15,5 @@ I'm currently working as a Software Achitect at [@Engesoftware](https://www.enge
 - *Frontend*: ReactJS, Angular 2+, AngularJS, VueJS, JQuery.
 
 Where you can find me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooctaviocruvinel/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrooctaviocruvinel)
 
-![Hello World](https://github.com/pedrooctaviocruvinel/pedrooctaviocruvinel/blob/master/assets/bottom.jpg)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrooctaviocruvinel/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrooctaviocruvinel)
